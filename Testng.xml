@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SampleSuite">
+
+    <test name="SampleTest">
+        <classes>
+           <class name="demo.demo.SignUp" />
+           <class name="demo.demo.Loginsuccess" />
+           <class name="demo.demo.AddProducttoCart" />
+           
+        </classes>
+    </test>
+</suite>
